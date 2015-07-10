@@ -1,0 +1,21 @@
+{
+  "name": "logdown-angular-bridge",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ReactiveRaven/logdown-angular-bridge",
+  "authors": [
+    "ReactiveRaven <reactiveraven@gmail.com>"
+  ],
+  "description": "Bridge for Logdown in Angular",
+  "main": "logdown-service.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "logdown": "~1.2.0"
+  }
+}
