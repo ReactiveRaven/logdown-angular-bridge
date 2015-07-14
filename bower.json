@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "logdown": "~1.2.0"
+    "logdown": "~1.2.4"
   }
 }
