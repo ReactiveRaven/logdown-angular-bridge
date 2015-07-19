@@ -16,6 +16,10 @@
     "tests"
   ],
   "dependencies": {
-    "logdown": "~1.2.4"
+    "logdown": "~1.2.4",
+    "angular": "~1.4.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.3"
   }
 }

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "There is currently no configuration necessary for this script.";
+echo "The ./configure script is kept for standardisation.";
+echo;
+echo "Next, run 'make'"; 
